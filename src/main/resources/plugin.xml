@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<go-plugin id="l3dt.helloWorldPlugin" version="1">
+	<about>
+		<name>DT Hello World</name>
+		<version>1.0</version>
+		<target-go-version>14.3.0</target-go-version>
+		<description>Just a simple Hello world</description>
+		<vendor>
+			<name>L3-DT</name>
+			<url>www.data-tactics-com</url>
+		</vendor>
+		<target-os>
+			<value>Linux</value>
+			<value>Windows</value>
+			<value>Mac OS X</value>
+		</target-os>
+	</about>
+</go-plugin>
